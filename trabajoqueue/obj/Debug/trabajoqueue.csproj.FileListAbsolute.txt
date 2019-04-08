@@ -1,0 +1,7 @@
+C:\Users\amema\source\repos\trabajoqueue\trabajoqueue\bin\Debug\trabajoqueue.exe.config
+C:\Users\amema\source\repos\trabajoqueue\trabajoqueue\bin\Debug\trabajoqueue.exe
+C:\Users\amema\source\repos\trabajoqueue\trabajoqueue\bin\Debug\trabajoqueue.pdb
+C:\Users\amema\source\repos\trabajoqueue\trabajoqueue\obj\Debug\trabajoqueue.csprojAssemblyReference.cache
+C:\Users\amema\source\repos\trabajoqueue\trabajoqueue\obj\Debug\trabajoqueue.csproj.CoreCompileInputs.cache
+C:\Users\amema\source\repos\trabajoqueue\trabajoqueue\obj\Debug\trabajoqueue.exe
+C:\Users\amema\source\repos\trabajoqueue\trabajoqueue\obj\Debug\trabajoqueue.pdb
